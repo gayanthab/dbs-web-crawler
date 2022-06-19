@@ -17,14 +17,21 @@
 Once the application is started, the below two route can be executed on Postman.
 
 1.To Feed URLs
+  
   route : http://localhost:8080/url
+  
   method : POST
+  
   body data 
+  
     key : 'url' value : url_value
+    
     key : depthLimit   value : the depth number that you need to scan
     
 2.To Seach text
+  
   route : http://localhost:8080/seach?keyword=<seach_text>
+  
   method : GET
 
 
