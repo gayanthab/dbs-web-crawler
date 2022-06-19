@@ -1,11 +1,14 @@
 # dbs-web-crawler 
 
 Technologies
+
 Database : My SQL
+
 Application Type : Spring Boot Rest
+
 Web server : Embeded Tomcat server in Spring Boot
 
-**#How to setup the project****
+#How to setup the project****
 
 1.Create a database schema "dbs-crawler" in mysql
 
@@ -17,7 +20,7 @@ Web server : Embeded Tomcat server in Spring Boot
 
 5.Run the web-crawler-0.0.1-SNAPSHOT.jar file
 
-**#How to execute the routes**
+#How to execute the routes**
 
 Once the application is started, the below two route can be executed on Postman.
 
