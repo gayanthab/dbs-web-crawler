@@ -16,7 +16,7 @@
 
 Once the application is started, the below two route can be executed on Postman.
 
-1.To Feed URLs
+1.To feed URLs
   
   route : http://localhost:8080/url
   
@@ -28,7 +28,7 @@ Once the application is started, the below two route can be executed on Postman.
     
     key : depthLimit   value : the depth number that you need to scan
     
-2.To Seach text
+2.To seach text
   
   route : http://localhost:8080/seach?keyword=<seach_text>
   
